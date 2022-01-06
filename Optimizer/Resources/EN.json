@@ -230,7 +230,7 @@
 	"savebtn": "Save",
 	"closebtn": "Close",
 	"adminMissingMsg": "Optimizer needs to be run as administrator!\nApp will now close...",
-	"unsupportedMsg": "Optimizer works in Windows 7 or higher!\nApp will now close...",
+	"unsupportedMsg": "Optimizer works with Windows 7 or higher!\nApp will now close...",
 	"confInvalidVersionMsg": "Windows version does not match!",
 	"confInvalidFormatMsg": "Config file is in invalid format!",
 	"confNotFoundMsg": "Config file does not exist!",
